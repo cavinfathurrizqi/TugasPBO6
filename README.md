@@ -1,5 +1,5 @@
 # TugasPBO6
-Koneksi JFrame Form Netbeans, Dan JDIALOG dengan PostgreSQL serta Exception Java di Netbeans.
+Koneksi JFrame Form Netbeans, Dan JDIALOG dengan PostgreSQL di Netbeans.
 # KONEKSI JFRAME FORM dengan POSGRESQL
 Konektivitas antara JFrame Form dan tabel di PostgreSQL adalah proses menghubungkan aplikasi Java berbasis GUI dengan basis data PostgreSQL agar data dapat ditampilkan, ditambahkan, diubah, atau dihapus langsung melalui antarmuka pengguna. JFrame Form berperan sebagai tampilan interaktif yang berisi komponen seperti tombol, text field, dan tabel, sedangkan PostgreSQL menyimpan data dalam bentuk tabel. Koneksi dilakukan menggunakan JDBC (Java Database Connectivity), sehingga setiap aksi pada JFrame Form, seperti menekan tombol simpan atau hapus, akan diterjemahkan menjadi perintah SQL yang dieksekusi pada tabel PostgreSQL.
 # JFRAME FORM NEATBEANS
